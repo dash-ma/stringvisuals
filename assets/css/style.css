@@ -632,7 +632,7 @@ section {
 --------------------------------------------------------------*/
 
 .portfolio{
-  display: none;
+  /* display: none; */
 }
 
 .portfolio .portfolio-item {
